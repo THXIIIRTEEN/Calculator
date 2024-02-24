@@ -1,6 +1,17 @@
-Базовый кнопочный калькулятор.
+<h1>Кнопочный калькулятор</h1>
 
-Выполнено с помощью технологии React JS
+<a href="https://calculator-two-swart-21.vercel.app/">Simple Demo</a>
 
-Ссылка на Vercel:
-https://calculator-two-swart-21.vercel.app/
+Кнопочный калькулятор со всеми базовыми математическими функциями. 
+
+<br><br>
+<h2>Используемые технологии</h2>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>React JS</li>
+  <li>JavaScript</li>
+</ul>
+<br>
+
+<br><br>
