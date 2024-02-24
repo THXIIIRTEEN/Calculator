@@ -1,6 +1,6 @@
 <h1>Кнопочный калькулятор</h1>
 
-<a href="https://calculator-two-swart-21.vercel.app/">Simple Demo</a>
+<b><a href="https://calculator-two-swart-21.vercel.app/">Simple Demo</a></b>
 
 Кнопочный калькулятор со всеми базовыми математическими функциями. 
 <br>
